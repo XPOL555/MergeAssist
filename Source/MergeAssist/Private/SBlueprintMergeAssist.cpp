@@ -4,13 +4,14 @@
 #include "SlateOptMacros.h"
 
 //#include "EditorStyle.h"
-#include "MultiBoxBuilder.h"
-#include "VerticalBox.h"
-#include "SSplitter.h"
+#include "Framework/MultiBox/MultiBoxBuilder.h"
+#include "Components/VerticalBox.h"
+#include "Widgets/Layout/SSplitter.h"
 #include "EditorStyle.h"
 
 #include "Unreal/SMergeAssetPickerView.h"
 #include "BlueprintMergeData.h"
+#include "EditorStyleSet.h"
 #include "SMergeGraphView.h"
 #include "SMergeTreeView.h"
 

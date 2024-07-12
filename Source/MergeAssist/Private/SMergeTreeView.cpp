@@ -3,6 +3,7 @@
 #include "SMergeTreeView.h"
 #include "SlateOptMacros.h"
 #include "EditorStyle.h"
+#include "EditorStyleSet.h"
 
 BEGIN_SLATE_FUNCTION_BUILD_OPTIMIZATION
 
